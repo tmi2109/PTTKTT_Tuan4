@@ -1,0 +1,6 @@
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan4\ThuatToan_ThamLam\Balo_BienThe\bin\Debug\Balo_BienThe.exe.config
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan4\ThuatToan_ThamLam\Balo_BienThe\bin\Debug\Balo_BienThe.exe
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan4\ThuatToan_ThamLam\Balo_BienThe\bin\Debug\Balo_BienThe.pdb
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan4\ThuatToan_ThamLam\Balo_BienThe\obj\Debug\Balo_BienThe.csproj.CoreCompileInputs.cache
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan4\ThuatToan_ThamLam\Balo_BienThe\obj\Debug\Balo_BienThe.exe
+C:\Users\tungm\Documents\12DHBM04\PTTKT\BT_Tuan4\ThuatToan_ThamLam\Balo_BienThe\obj\Debug\Balo_BienThe.pdb
